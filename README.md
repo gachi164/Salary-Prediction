@@ -43,6 +43,11 @@ The dataset contains both numeric and catergorical varibles.
     - major: Specific concentration
     - degree: Educational qualification. eg. High school, masters
     - industry: The industry where the company is specilized in.
+###### Data Visualisation!
+The Figure below shows the distribution of the target variable:
+![fig1_Salary%20distribution.png](attachment:fig1_Salary%20distribution.png)
+
+
 
 ![image.png](attachment:image.png)
 
