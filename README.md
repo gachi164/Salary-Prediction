@@ -45,7 +45,7 @@ The dataset contains both numeric and catergorical varibles.
     - industry: The industry where the company is specilized in.
 ###### Data Visualisation!
 The Figure below shows the distribution of the target variable:
-![](images/fig1_Salary distribution.png)
+![](attachment:images/fig1_Salary distribution.png)
 
 
 
