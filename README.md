@@ -47,7 +47,7 @@ The dataset contains both numeric and catergorical varibles.
 The Figure below shows the distribution of the target variable:
 ![](images/fig1_Salary%20distribution.png)
 
-
+kl hieu
 
 ![image.png](attachment:images/fig1_Salary distribution.png)
 
