@@ -52,7 +52,7 @@ The Figure below shows the distribution of the target variable:
 ###### Correlation matrix
 Correlations between selected features and response:
 
-![](images/fig1_Salary%20distribution.png)
+![](images/fig4_correlations.png)
 ![](images/fig3_correlations.png)
 
 
