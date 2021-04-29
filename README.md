@@ -89,6 +89,8 @@ Standard deviation during CV:
 ### Deploy Model
  By using the minimum of mean square error (MSE) the best model that was selected was GradientBoostingRegressor(max_depth=5, n_estimators=150).
  Then, the feature importance was checked.
+ 
  ![](images/fig5_feature importance.png)
- The selected model was used to predict the salaries.
+ 
+The selected model was used to predict the salaries.
 
