@@ -53,15 +53,14 @@ The Figure below shows the distribution of the target variable:
 Correlations between selected features and response:
 
 ![](images/fig4_correlations.png)
-![](images/fig3_correlations.png)
 
 
 ### Develop Solutions
 Five machine learning models, namely the Linear Regression, Ridge Regression, Random Forest, and Gradient Boosting were used to train the data set.
 
-Model:
- LinearRegression()
-Average MSE:
+####Model:
+ - LinearRegression()
+ - Average MSE:
  384.45106930859174
 Standard deviation during CV:
  0.21378145979014107
