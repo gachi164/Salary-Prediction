@@ -46,21 +46,19 @@ The dataset contains both numeric and catergorical varibles.
 ###### Data Visualisation!
 
 The Figure below shows the distribution of the target variable:
-
-![](images/fig1_Salary%20distribution.png)
+![](images/fig1_Salary distribution.png)
 
 ###### Correlation matrix
 Correlations between selected features and response:
-
 ![](images/fig4_correlations.png)
 
 
 ### Develop Solutions
 Five machine learning models, namely the Linear Regression, Ridge Regression, Random Forest, and Gradient Boosting were used to train the data set.
 
-Model: LinearRegression()
-Average MSE: 384.45106930859174
-Standard deviation during CV: 0.21378145979014107
+#### Model: LinearRegression()
+ Average MSE: 384.45106930859174
+ Standard deviation during CV: 0.21378145979014107
 
 Model:
  Pipeline
@@ -86,8 +84,6 @@ Standard deviation during CV:
 ### Deploy Model
  By using the minimum of mean square error (MSE) the best model that was selected was GradientBoostingRegressor(max_depth=5, n_estimators=150).
  Then, the feature importance was checked.
- 
- ![](images/fig5_feature%20importance.png)
- 
-The selected model was used to predict the salaries.
+ ![](images/fig5_feature importance.png)
+ The selected model was used to predict the salaries.
 
